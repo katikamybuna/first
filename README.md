@@ -1,3 +1,3 @@
-# first
+git # first
 first repository
-by Mybuna
+by Mybuna Katika
